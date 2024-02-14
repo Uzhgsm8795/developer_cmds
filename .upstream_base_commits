@@ -1,4 +1,4 @@
-#freebsd = https://git.freebsd.org/src.git
+n#freebsd = https://git.freebsd.org/src.git
 
 ctags/C.c	freebsd	usr.bin/ctags/C.c	7ba6119e22b54c2104b1948f0e8a4157d4112958
 ctags/ctags.1	freebsd	usr.bin/ctags/ctags.1	430d064ba5b0cb2e91a26af34c15df48d290e417
